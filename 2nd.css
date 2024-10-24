@@ -1,0 +1,23 @@
+nav{
+    background-color: #ccc;
+    border-bottom:solid black 2px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+.main{
+    margin-top: 50px;
+    display: flex;
+}
+.content{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+aside{
+    background-color: #ccc;
+    position: fixed;
+    margin-top: 10px;
+    height: 100%;
+    width: 50px;
+   
+}

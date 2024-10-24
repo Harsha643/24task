@@ -1,0 +1,11 @@
+nav{
+    background-color: #ccc;
+    border-bottom:solid black 2px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+.main{
+    margin-top: 50px;
+    display: flex;
+}
